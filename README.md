@@ -1,7 +1,8 @@
 # Robot-arm-3D-
 This 3D model represents a robotic arm designed using Tinkercad, a browser-based 3D modeling tool. The arm features a simple, articulated structure that mimics the joints of an industrial robotic manipulator.
 
-![Uploading 2025-07-05.png…]()
+![2025-07-05](https://github.com/user-attachments/assets/35e97421-0c38-4c4b-99a4-31ac21f0300e)
+
 
 
 Main Components:
