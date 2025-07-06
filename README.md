@@ -19,7 +19,7 @@ Upper Arm and Gripper:
 The upper segments extend outward and end in a dual-finger gripper, allowing the robot to grab or hold objects. The fingers are rectangular, designed for simple pinching actions.
 
 Color Coding:
-The model uses green and white to differentiate moving parts and joints, improving visual understanding of the structure and mobility.
+The model uses gray and white to differentiate moving parts and joints, improving visual understanding of the structure and mobility.
 
 Label:
 The name "Robot arm" is added as a 3D text label on the platform, making the project easily identifiable.
